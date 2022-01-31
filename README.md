@@ -1,6 +1,6 @@
 # Convert-Money
 
-<img src="./assets/readme.converter.jpg">
+<img src="./assets/readme.converter.jpg" height="350px">
 <br><br>
 
 <h3> => Projeto de conversão de moedas 💲💲 <= </h3>
